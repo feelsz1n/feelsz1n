@@ -3,7 +3,7 @@
 - 18 years
 - Since 2003
 
-### 💻 Languages
+### 💻 `x` Languages and Tools
 
   <p align="center">
     <a href="https://skillicons.dev">
